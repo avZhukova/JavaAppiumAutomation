@@ -12,25 +12,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainClass.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="370">
+              <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MainTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            <state relative-caret-position="105">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -50,14 +56,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MainTest.java" />
         <option value="$PROJECT_DIR$/src/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/MainTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="175" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="570" />
+    <option name="y" value="23" />
     <option name="width" value="857" />
     <option name="height" value="935" />
   </component>
@@ -124,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.testGetClassNumber">
+  <component name="RunManager" selected="JUnit.MainTest.testGetClassString">
     <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaAppiumAutomation" />
       <option name="PACKAGE_NAME" value="" />
@@ -144,6 +150,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTest.testGetClassString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAppiumAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="testGetClassString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest.testGetLocalNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaAppiumAutomation" />
       <option name="PACKAGE_NAME" value="" />
@@ -156,6 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.testGetClassString" />
         <item itemvalue="JUnit.MainTest.testGetClassNumber" />
         <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.MainTest.testGetLocalNumber" />
@@ -176,42 +193,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainTest_testGetLocalNumber - 2019.07.02 at 11h 28m 40s.xml">
-      <configuration name="MainTest.testGetLocalNumber" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 09m 52s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest_testGetLocalNumber - 2019.07.02 at 11h 33m 25s.xml">
-      <configuration name="MainTest.testGetLocalNumber" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 18m 03s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2019.07.02 at 11h 33m 50s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 18m 30s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2019.07.02 at 11h 34m 25s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 18m 47s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2019.07.02 at 11h 34m 42s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 28m 12s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest - 2019.07.02 at 11h 35m 32s.xml">
-      <configuration name="MainTest" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 28m 28s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest_testGetClassNumber - 2019.07.02 at 18h 26m 25s.xml">
-      <configuration name="MainTest.testGetClassNumber" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 29m 07s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest_testGetClassNumber - 2019.07.02 at 18h 26m 35s.xml">
-      <configuration name="MainTest.testGetClassNumber" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 40m 38s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest_testGetClassNumber - 2019.07.02 at 18h 26m 48s.xml">
-      <configuration name="MainTest.testGetClassNumber" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 41m 15s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MainTest_testGetClassNumber - 2019.07.02 at 18h 27m 25s.xml">
-      <configuration name="MainTest.testGetClassNumber" configurationId="JUnit" />
+    <history-entry file="MainTest_testGetClassString - 2019.07.02 at 19h 41m 35s.xml">
+      <configuration name="MainTest.testGetClassString" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="175" y="26" width="857" height="935" extended-state="0" />
+    <frame x="570" y="23" width="857" height="935" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2613497" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2613497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -220,7 +237,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32977462" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32977462" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -249,15 +266,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="105">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        <state relative-caret-position="370">
+          <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,5 +1,7 @@
 import org.junit.Test;
 
+import static org.junit.Assert.fail;
+
 public class MainTest extends MainClass
 
 {
@@ -35,6 +37,33 @@ public class MainTest extends MainClass
 
 
 }
+
+@Test
+    public void testGetClassString()
+{
+
+if (getClassString().toLowerCase().contains(getClassSubstrin().toLowerCase()))
+{
+
+
+    System.out.println("В строке найдена подстрока: " + getClassSubstrin());
+
+
+
+} else {
+
+
+    typeError("Нет совпадений по запросу " + getClassSubstrin());
+    fail();
+}
+
+
+    {
+
+    }
+
+}
+
 
 
 }
