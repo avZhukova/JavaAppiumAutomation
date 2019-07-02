@@ -20,5 +20,21 @@ public class MainTest extends MainClass
 
     }
 
+@Test
+    public void  testGetClassNumber()
+{
+
+    if (getClassNumber() > 45) {
+
+        System.out.println("Успех");
+
+    } else {
+        System.out.println("Число не равно 45");
+
+    }
+
+
+}
+
 
 }
